@@ -8,16 +8,7 @@ This Repository contains the implementation of Matrix Multplication ran on Hadoo
 This file contains the implementation of mapper. It maps keys according to the the matrix.
 For Example, 
 
-Input Matrices =
-
-   [ 5	3	1 ]
-A= |-2	3	-1|
-   |7	 1 	-1|
-   [0  1	 1]
-
-   [5	 9	2	3	-4 ]
-B= |5	 2	-6	3	9|
-   [-10	0	3	-9	7]
+![screen shot 2018-01-11 at 5 17 39 am](https://user-images.githubusercontent.com/22648497/34820586-f5f6dc54-f68e-11e7-8b8d-6834079d6519.png)
    
    We provided this matrices in flatened format as in txt files as we cannot provide data as 2D Array as follows:
    So the first element in Matrix A which refers to 1st row and 1st column 5 as - a,0,0,5
