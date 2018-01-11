@@ -21,4 +21,9 @@ For Example,
    
  # Matrix_Reducer.py
  
- This file contains the implementation of reducer. Here we reduce the 
+ This file contains the implementation of reducer. Here we reduce the output received from mapper into actual 2D array for matrices A and B and calculate the matrix multiplication based on usual formula.
+ 
+ # Matrix_Output.txt
+ This file shows the output of the resultant matrix obtained by multiplying matrix A and B.
+ 
+ 
